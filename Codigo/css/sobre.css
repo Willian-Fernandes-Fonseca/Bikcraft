@@ -1,0 +1,35 @@
+.interna-sobre {
+	background:url("../imagens/bg-sobre.jpg") no-repeat center;
+	background-size: cover;
+}
+.missao_sobre{
+	padding-top: 60px;
+}
+.subtitulo-interno{
+	font-size: 24px;
+	line-height: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.subtitulo-interno:after{
+	content: "";
+	width: 60px;
+	height:3px;
+	background-color: #000;
+	display: block;
+	margin: 10px 0 20px 0;
+}
+.missao_sobre p{
+	font-size: 18px;
+	line-height: 25px;
+	margin-bottom: 1em;
+	padding-right: 60px;
+}
+.missao_sobre ul li{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	line-height: 30px;
+	font-size: 18px;
+}
+.foto-equipe{
+	padding-top: 20px;
+}
